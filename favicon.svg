@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Dark background -->
+  <rect width="32" height="32" fill="#1a1a1a"/>
+  
+  <!-- Portfolio briefcase -->
+  <rect x="8" y="12" width="16" height="10" rx="2" fill="#2d2d2d" stroke="#ffffff" stroke-width="1"/>
+  
+  <!-- Briefcase handle -->
+  <rect x="12" y="10" width="8" height="2" rx="1" fill="#ffffff"/>
+  
+  <!-- Code brackets -->
+  <path d="M 6 8 L 8 8 L 8 24 L 6 24" stroke="#ffffff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M 26 8 L 24 8 L 24 24 L 26 24" stroke="#ffffff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Code lines -->
+  <line x1="10" y1="14" x2="14" y2="14" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="10" y1="17" x2="18" y2="17" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="10" y1="20" x2="16" y2="20" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"/>
+</svg> 
